@@ -1,0 +1,5 @@
+{
+	"name": "ring-lock",
+	"condition": 1,
+	"secret": 123
+}
